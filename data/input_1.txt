@@ -1,0 +1,8 @@
+a 3
+a 1
+air 1
+and 2
+are 4
+array 1
+rule 100
+the 4

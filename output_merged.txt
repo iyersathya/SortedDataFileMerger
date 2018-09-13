@@ -1,0 +1,10 @@
+a 10
+air 3
+and 6
+are 12
+array 3
+is 3
+find 1
+rule 100
+the 10
+world 1

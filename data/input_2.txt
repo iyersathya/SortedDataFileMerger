@@ -1,0 +1,7 @@
+a 3
+air 1
+and 2
+are 4
+array 1
+the 2
+world 1

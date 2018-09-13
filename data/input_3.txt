@@ -1,0 +1,8 @@
+a 3
+air 1
+and 2
+are 4
+array 1
+is 3
+find 1
+the 4
